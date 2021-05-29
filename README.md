@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amith</h1>
-<h3 align="center">Love to break into codes</h3>
+<h3 align="center">I <span style="color:red">❤</span> to break into codes</h3>
 
 <p align="left"> <a href="https://twitter.com/amithvp10" target="blank"><img src="https://img.shields.io/twitter/follow/amithvp10?logo=twitter&style=for-the-badge" alt="amithvp10" /></a> </p>
 
