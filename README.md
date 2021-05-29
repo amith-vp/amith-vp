@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/amith_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="amith_v" height="30" width="40" /></a>
+<a href="https://codepen.io/amith_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/codepen.svg" alt="amith_v" height="30" width="40" /></a>
 <a href="https://dev.to/amithv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amithv" height="30" width="40" /></a>
-<a href="https://twitter.com/amithvp10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="amithvp10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amith-v-purushothaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="amith-v-purushothaman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7584342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="7584342" height="30" width="40" /></a>
-<a href="https://instagram.com/am_it.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="am_it.h" height="30" width="40" /></a>
+<a href="https://twitter.com/amithvp10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="amithvp10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amith-v-purushothaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="amith-v-purushothaman" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7584342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/stack-overflow.svg" alt="7584342" height="30" width="40" /></a>
+<a href="https://instagram.com/am_it.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="am_it.h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
