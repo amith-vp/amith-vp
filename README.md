@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amithvp10" target="blank"><img src="https://img.shields.io/twitter/follow/amithvp10?logo=twitter&style=for-the-badge" alt="amithvp10" /></a> </p>
 
-- 🔭 I’m currently working on **Radients**
+- 🔭 I’m currently working on **Project Radients**
 
 - 🌱 I’m currently learning **vue.js**
 
