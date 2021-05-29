@@ -30,5 +30,5 @@
 <p><a href="https://www.buymeacoffee.com/amithvp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amithvp" /></a></p><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amith-vp&show_icons=true&locale=en&layout=compact" alt="amith-vp" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amith-vp&show_icons=true&locale=en&layout=compact" alt="amith-vp" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=amith-vp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="amith-vp" /></p>
