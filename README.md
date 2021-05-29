@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **vue.js**
 
-- 👨‍💻 All of my projects are available at [amithv.me](amithv.me)
+- 👨‍💻 All of my projects are available at [amithv.me](https://amithv.me)
 
 - 💬 Ask me about **nodejs reactjs discordjs**
 
