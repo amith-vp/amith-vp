@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amith</h1>
 <h3 align="center">I <span style="color:red">❤</span> to break into codes</h3>
 
-<p align="left"> <a href="https://twitter.com/amithv_" target="blank"><img src="https://img.shields.io/twitter/follow/amithvp10?logo=twitter&style=for-the-badge" alt="amithvp10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amithv_" target="blank"><img src="https://img.shields.io/twitter/follow/amithv_?logo=twitter&style=for-the-badge" alt="amithvp10" /></a> </p>
 
-- 🔭 I’m currently working on **Project Radients**
+- 🔭 I’m currently working on **https://SitInShade.com**
 
 - 🌱 I’m currently learning **vue.js**
 
