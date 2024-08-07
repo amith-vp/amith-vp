@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer from Kerala🌴</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Onam%20Sadhya-Full%20Stack%20Meal-orange" alt="Full Stack Onam Sadhya" />
+  <img src="https://img.shields.io/badge/Sadhya-Full%20Stack%20Meal-orange" alt="Full Stack Onam Sadhya" />
   <img src="https://img.shields.io/badge/വിദഗ്‌ധൻ-Node.js-green" alt="Node JS" />
   <img src="https://img.shields.io/badge/Penguin%20Premi-Linux%20Enthusiast-green" alt="Linux" />
 
